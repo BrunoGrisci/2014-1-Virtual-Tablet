@@ -1,0 +1,14 @@
+LEIA-ME
+
+Bruno Iochins Grisci - 208151
+Luís Antônio Leite Francisco da Costa - 161887
+
+1) Para rodar o programa, é preciso ter instalados no computador o Python 2.7 e as bibliotecas Opencv, PyQt4 e numpy.
+2) Chame o arquivo VirtualTablet.py com o interpretador Python.
+3) Uma webcam precisa estar conectada na porta USB 0 do PC para ser reconhecida.
+4) O arquivo squaremask.jpg precisa estar salvo no mesmo diretório que VirtualTablet.py.
+5) O script hsvsliders.py foi utilizado para encontrar os limiares de reconhecimento das cores.
+6) O arquivo markers.odt contém duas páginas. Na segunda, temos a configuração final de marcadores utilizada na apresentação, na primeira, alguns marcadores experimentados.
+7) Os questionários utilizados nos testes com usuários estão salvos no formato .PNG, mas podem ser acessados através dos links abaixo:
+   https://docs.google.com/forms/d/1LAGfSU40h6gMkFoGTgoitycaKu5-f4A-wvEWj44XucM/viewform
+   https://docs.google.com/forms/d/1t-Z-TUVn6GtdfU9WO2OoiiJJKe_am37FNjfy7iRXP0Y/viewform
